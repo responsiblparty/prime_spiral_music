@@ -1,4 +1,4 @@
-
+<img width="1231" height="622" alt="Screen Shot 2026-01-04 at 12 50 50 PM" src="https://github.com/user-attachments/assets/d412e7f6-c548-4707-8877-fc09996d9af3" />
 # ◈ Prime Spiral Music Box
 
 An interactive, browser-based audiovisual experience that maps the distribution of prime numbers to geometric spirals and generative soundscapes.
